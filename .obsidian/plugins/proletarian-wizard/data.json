@@ -1,0 +1,11 @@
+{
+  "version": 3,
+  "ignoredFolders": [
+    "Cyber Security"
+  ],
+  "ignoreArchivedTodos": true,
+  "defaultDailyWipLimit": 5,
+  "dueDateAttribute": "due",
+  "completedDateAttribute": "completed",
+  "selectedAttribute": "selected"
+}

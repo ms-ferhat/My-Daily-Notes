@@ -1,0 +1,148 @@
+.HyperMD-task-line {
+    color: var(--color-purple);
+}
+
+.pw-todo-text-complete {
+    text-decoration: line-through;
+    display: inline-block;
+}
+
+.pw-todo-checkbox {
+    /* height: 100%; */
+    display: inline-block;
+    width: 20px;
+}
+
+.pw-todo-text {
+    display: inline;
+}
+
+.pw-todo-panel {
+    font-size: small;
+}
+
+.pw-todo-container {
+    cursor: pointer;
+    /* display: inline; */
+    flex-direction: row;
+}
+
+.pw-todo-container:hover {
+    border-color: var(--background-modifier-border-hover);
+    background-color: var(--background-modifier-hover);
+}
+
+.pw-todo-sub-container {
+    margin-left: 10px;
+    padding-left: 10px;
+    border-left: 1px solid var(--background-modifier-border);
+}
+
+.pw-planning--settings {
+    display: block;
+}
+
+.ub-color_474d66 {
+    color: var(--text-normal) !important
+}
+
+.pw-planning--settings--search {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.pw-planning--settings--wip {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.pw-planning--settings--hide-checkbox {
+    display: inline-block;
+}
+
+.pw-planning-column {
+    width: 260px;
+    margin: 5px;
+    display: inline-block;
+    height: 260px;
+}
+
+.pw-planning-column-title { 
+    width: 100%;
+    margin-bottom: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.pw-planning-column-title-icon { 
+    margin-right: 10px;
+}
+
+.pw-planning-column-content {
+    padding: 8px;
+    font-size: .8em;
+    border: 1px solid var(--background-modifier-border);
+    height: 100%;
+    overflow: auto;
+    border-radius: 10px;
+}
+
+/* TODAY */
+
+.pw-planning-today {
+    border: 3px solid var(--background-modifier-border);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.pw-planning-today h1 {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.pw-planning-today-icon {
+    color: #fc0
+}
+
+.pw-planning-column--today {
+    width: 30%;
+}
+
+.pw-planning-column--today:nth-of-type(1) {
+    border-right: 1px solid var(--background-modifier-border);
+}
+
+.pw-planning-column--today:nth-of-type(3) {
+    border-left: 1px solid var(--background-modifier-border);
+}
+
+.pw-planning-column-content--today {
+    border: 1px solid transparent;
+}
+
+.pw-planning-column-content--hover {
+    border-color: var(--background-modifier-border-hover);
+    background-color: var(--background-modifier-hover);
+}
+
+.pw-planning-column-content--wip-exceeded {
+    border: 1px solid var(--text-error);
+}
+
+.pw-report {
+    overflow: auto;
+    padding: 10px;
+}
+
+.pw-report-container {
+    padding: 30px;
+    margin: 10px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: var(--radius-m);
+    min-height: 80px;
+}
+
+.pw-error {
+    color: var(--background-modifier-error)
+}

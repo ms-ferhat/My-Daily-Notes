@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"90f4da51f5ce5ed9","x":-860,"y":-95,"width":420,"height":208,"type":"text","text":"## Encryption & Certification\n\n1. Start sequence (e.g., three way handshake)\n2. End Sequence (e.g., Four way teardown)\n3. Info Exchange"},
+		{"id":"10a7927cb9c205d8","x":-342,"y":-95,"width":372,"height":208,"type":"text","text":"## Communication\n\n1. Inti function\n2. Send function\n3. Receive function"},
+		{"id":"9134ff77944ad677","type":"text","text":"# GP Project","x":-80,"y":-380,"width":220,"height":60},
+		{"id":"dadd877abd0cb644","x":140,"y":-95,"width":320,"height":208,"type":"text","text":"## Touch Screen\n\n1. Inti screen (e.g., show image)\n2. Virtual Keyboard\n3. Touch "},
+		{"id":"d82354f3b88a7423","x":600,"y":-92,"width":320,"height":205,"type":"text","text":"## Voice\n\n1. Inti Mic & Speaker\n2. Send Voice \n3. Receive Voice\n"}
+	],
+	"edges":[
+		{"id":"d7ef46bbc5757f32","fromNode":"9134ff77944ad677","fromSide":"bottom","toNode":"90f4da51f5ce5ed9","toSide":"top"},
+		{"id":"6c791dccf1d5dcb2","fromNode":"9134ff77944ad677","fromSide":"bottom","toNode":"10a7927cb9c205d8","toSide":"top"},
+		{"id":"5d865fbda8ec6272","fromNode":"9134ff77944ad677","fromSide":"bottom","toNode":"dadd877abd0cb644","toSide":"top"},
+		{"id":"7e601c50ebafcc2d","fromNode":"9134ff77944ad677","fromSide":"bottom","toNode":"d82354f3b88a7423","toSide":"top"}
+	]
+}

@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "f7dfdc6aee433e8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4983a6f259a316a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea6952a53286764b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "25_year/The path to 2025 Goals.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The path to 2025 Goals"
+            }
+          },
+          {
+            "id": "f7e5fd9829530d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Temp"
+            }
+          },
+          {
+            "id": "20674f79af39d070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "25_year/February 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "February 2025"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c5c9ecbf3466360",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "00feb0cfe7de4b97",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "051aabcdcf7c1337",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "31c73bcf50c9d804",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "51e432ddc7f36753",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e736c8d1c48c857c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "70085c954e09d648",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "25_year/January 2025.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "a074af7d012fd652",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "25_year/January 2025.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "ffe6ef1dc0ce0054",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "25_year/January 2025.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "292870c2c556e980",
+        "type": "leaf",
+        "state": {
+          "type": "pw.todo-list",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "20674f79af39d070",
+  "lastOpenFiles": [
+    "25_year/The path to 2025 Goals.md",
+    "25_year/February 2025.md",
+    "25_year/February 2025.sync-conflict-20250211-103320-QEGHOZS.md",
+    "Temp.md",
+    "قيام الليل.md",
+    "Untitled",
+    "25_year/January 2025.md",
+    "Youtube Videos/دورة تاهل.md"
+  ]
+}
