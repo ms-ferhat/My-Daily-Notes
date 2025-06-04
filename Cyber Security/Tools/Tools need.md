@@ -1,2 +1,0 @@
-- [ ] pdfid
-- [ ] pdf-parser

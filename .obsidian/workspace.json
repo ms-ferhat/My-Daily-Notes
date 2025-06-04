@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2939c62d2cd0a9a",
+        "id": "8be5013069956b92",
         "type": "tabs",
         "children": [
           {
-            "id": "3f56143570324871",
+            "id": "712d7bfb2f035ca2",
             "type": "leaf",
             "state": {
               "type": "pw.planning",
@@ -18,17 +18,17 @@
             }
           },
           {
-            "id": "0ccf474c3bc23460",
+            "id": "3d80322725b45dca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Writeup/CyberDefender/Corporate Secrets Lab.md",
+                "file": "Cyber Security/Red/OWASP 10 Web/Cross-site scripting(XSS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Corporate Secrets Lab"
+              "title": "Cross-site scripting(XSS)"
             }
           }
         ],
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "25_year/February 2025.md",
+                "file": "Cyber Security/OWASP 10 Web/Broken Access Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for February 2025"
+              "title": "Backlinks for Broken Access Control"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "25_year/February 2025.md",
+                "file": "Cyber Security/OWASP 10 Web/Broken Access Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from February 2025"
+              "title": "Outgoing links from Broken Access Control"
             }
           },
           {
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "25_year/February 2025.md",
+                "file": "Cyber Security/OWASP 10 Web/Broken Access Control.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of February 2025"
+              "title": "Outline of Broken Access Control"
             }
           },
           {
@@ -190,54 +190,55 @@
       "proletarian-wizard:Open planning": false
     }
   },
-  "active": "0ccf474c3bc23460",
+  "active": "3d80322725b45dca",
   "lastOpenFiles": [
-    "Cyber Security/eCIR/Sheet Cheets/Linux Cheat Sheet.md",
-    "25_year/February 2025.md",
-    "Cyber Security/eCIR/Sheet Cheets/Windows Cheat Sheet.md",
-    "Cyber Security/eCIR/Sheet Cheets",
-    "Cyber Security/eCIR/1. Incident Handling Process.md",
-    "Cyber Security/eCDFP/2. Data Acquisition.md",
-    "Cyber Security/eCDFP/1. Introduction.md",
-    "Cyber Security/Linux Command/Netstat.md",
-    "25_year/January 2025.md",
-    "DECI-24_25/Embedded 2.md",
-    "DECI-24_25/Embedded 1.md",
-    "Images/Pasted image 20250212083610.png",
-    "HR_interview.md",
-    "25_year/The path to 2025 Goals.md",
-    "قيام الليل.md",
+    "Cyber Security/Red/OWASP 10 Web/OWASP Web Application Security Testing Checklist.md",
+    "Cyber Security/Red/OWASP 10 Web/Cross-site scripting(XSS).md",
+    "Cyber Security/Red/OWASP 10 Web/Broken Access Control.md",
+    "25_year/6. June 2025.md",
+    "Job Search/VOIS program.md",
+    "Cyber Security/Other/1. Windows/AD-cheat-sheet.pdf",
+    "Cyber Security/Other/1. Windows/Active Directory.md",
+    "Cyber Security/Blue/Incident Response/1. Incident Handling Process.md",
+    "Cyber Security/Blue/Incident Response/SOC_Path_LetsDefend/8. Security Solutions.md",
+    "Cyber Security/Blue/Incident Response/SOC_Path_LetsDefend/7. Malware Analysis Fundamentals.md",
+    "Cyber Security/Blue/Incident Response/SOC_Path_LetsDefend/6.  Investigate a SIEM Alert.md",
+    "Cyber Security/Blue/Incident Response/SOC_Path_LetsDefend/5. Web Attack.md",
+    "Cyber Security/Blue/Incident Response/SOC_Path_LetsDefend/4. Email Analysis.md",
+    "Cyber Security/Blue/Incident Response/SOC_Path_LetsDefend/3. MITRE.md",
+    "Cyber Security/Blue/Incident Response/SOC_Path_LetsDefend/2. Cyber Kill Chain.md",
+    "Cyber Security/Blue/Incident Response/SOC_Path_LetsDefend/1. SOC Fundamentals.md",
+    "Cyber Security/Blue/Incident Response/Cheat Sheets/Windows Cheat Sheet.md",
+    "Cyber Security/Blue/Incident Response/Cheat Sheets/Linux Cheat Sheet.md",
+    "Cyber Security/Blue/Digital_Forensics/Cheat Sheet/SANS_DFPS_FOR500.pdf",
+    "Cyber Security/Blue/eCDFP/Labs/7. Log Analysis Labs.md",
+    "Cyber Security/Blue/eCDFP/Labs/5. File System Labs.md",
+    "Cyber Security/Blue/eCDFP/Labs/4. Disks Labs.md",
+    "Cyber Security/Blue/eCDFP/Labs/3. File & Disk Analysis Labs.md",
+    "Cyber Security/Projects/SOC Automation Project.md",
+    "Cyber Security/Other",
+    "Cyber Security/Projects/Snort&Zeek network Monitoring.md",
+    "Cyber Security/Projects/SOC_Automation.png",
+    "Cyber Security/Projects/Wazuh_dash.png",
+    "Cyber Security/Cheat Sheets/Nmap-Cheat-Sheet.pdf",
+    "Cyber Security/Red",
+    "Cyber Security/Blue",
     "25_year/Ask Yourself.md",
+    "Cyber Security/Untitled.md",
+    "Cyber Security/Red/OWASP 10 Web",
+    "HR_interview.md",
     "25_year/2025.canvas",
-    "Cyber Security/Writeup/CyberDefender/Corporate Secrets Lab.md",
-    "Genral/أدعية.md",
-    "Cyber Security/Linux Command/awk.md",
-    "Cyber Security/eCDFP/8. Memory Forensics 1.md",
-    "Cyber Security/Tools/Wireshark.md",
-    "Cyber Security/Tools/Volatility.md",
-    "Cyber Security/Tools/Tools need.md",
-    "Cyber Security/Writeup/PE Header Analysis.md",
-    "Cyber Security/Search Topics.md",
-    "Images/Pasted image 20250212095754.png",
-    "Cyber Security/eCDFP/Labs/4. Disks Labs.md",
-    "Cyber Security/Sheets/SANS_DFPS_FOR500.pdf",
-    "Cyber Security/Sheets/SANS_DFPS_FOR508.pdf",
-    "Cyber Security/Sheets",
-    "Cyber Security/cheet sheets.md",
-    "Images/Pasted image 20250212094712.png",
-    "Images/Pasted image 20250212094529.png",
-    "Cyber Security/Writeup/Windows Forensics.md",
-    "Cyber Security/Writeup/Windows Forensics Cheatsheet.pdf",
-    "Cyber Security/eCIR",
-    "25_year/~syncthing~February 2025.sync-conflict-20250211-103320-QEGHOZS.md.tmp",
-    "Graduatin Project/GP.canvas",
-    "Images/Pasted image 20250208073727.png",
-    "Images/Pasted image 20250208082117.png",
-    "Images/Pasted image 20250208081739.png",
-    "Images/Pasted image 20250208081127.png",
-    "Images/Pasted image 20250208074025.png",
-    "Images/Pasted image 20250208074010.png",
-    "Cyber Security/Linux Command",
-    "Job Search"
+    "Images/Pasted image 20250426095415.png",
+    "Images/Pasted image 20250426095807.png",
+    "Images/Pasted image 20250426102049.png",
+    "Cyber Security/Other/1. Windows",
+    "Images/Pasted image 20250418103155.png",
+    "Images/Pasted image 20250418083731.png",
+    "Images/Pasted image 20250418081528.png",
+    "Images/Pasted image 20250418080132.png",
+    "Images/Pasted image 20250415082216.png",
+    "Cyber Security/Blue/Incident Response/SOC_Path_LetsDefend",
+    "Cyber Security/Projects",
+    "Graduatin Project/GP.canvas"
   ]
 }

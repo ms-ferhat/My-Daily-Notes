@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"id":"43a0c011f4742cfe","type":"text","text":"# Main Goals","x":-720,"y":-460,"width":250,"height":60},
-		{"id":"2da29024868d26d0","type":"text","text":"- [ ] Got a full time job\n- [ ] احفظ الخمس اجزاء الاولة من القران\n- [ ] قراء 20 كتاب في تخصص و ديني","x":-720,"y":-380,"width":250,"height":240},
-		{"id":"8e6b23efe9583468","type":"file","file":"25_year/January 2025.md","x":-440,"y":-460,"width":320,"height":320},
-		{"id":"aa0d0ee95d1327f3","x":-100,"y":-460,"width":320,"height":320,"type":"file","file":"25_year/February 2025.md"}
+		{"id":"2da29024868d26d0","type":"text","text":"- [ ] Got a full time job\n- [x] احفظ الخمس اجزاء الاولة من القران\n- [ ] قراء 20 كتاب في تخصص و ديني","x":-720,"y":-380,"width":250,"height":240},
+		{"id":"8e6b23efe9583468","type":"file","file":"25_year/1. January 2025.md","x":-440,"y":-460,"width":320,"height":320},
+		{"id":"aa0d0ee95d1327f3","type":"file","file":"25_year/2. February 2025.md","x":-100,"y":-460,"width":320,"height":320}
 	],
 	"edges":[]
 }
