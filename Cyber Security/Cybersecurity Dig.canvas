@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"7e2fde6236f506dd","type":"text","text":"# Cybersecurity","x":3040,"y":40,"width":260,"height":60,"color":"5"},
+		{"id":"0c0171ffb24d3910","type":"text","text":"## General","x":3040,"y":254,"width":250,"height":60,"color":"6"},
+		{"id":"eb22f55fe505d3ad","type":"text","text":"## Offensive","x":2380,"y":254,"width":250,"height":60,"color":"1"},
+		{"id":"24ef01f1673bbdba","type":"text","text":"### OWASP 10 Web","x":2097,"y":411,"width":250,"height":60,"color":"#d55d5d"},
+		{"id":"6b0b12d87fd73d6d","type":"file","file":"Cyber Security/Red/OWASP 10 Web/Cross-site scripting(XSS).md","x":2097,"y":1003,"width":408,"height":137},
+		{"id":"8fb170a4ebc41e1a","type":"file","file":"Cyber Security/Red/OWASP 10 Web/Broken Access Control.md","x":2097,"y":570,"width":408,"height":156},
+		{"id":"229dae1044263f7a","type":"text","text":"## Defensive","x":4485,"y":270,"width":250,"height":60,"color":"4"},
+		{"id":"accd42f0c87dd3eb","type":"text","text":"## Digital Forensics","x":5234,"y":501,"width":250,"height":60,"color":"#565252"},
+		{"id":"0497a58c9d1664eb","type":"file","file":"Cyber Security/Blue/Digital_Forensics/1. Introduction.md","x":5159,"y":686,"width":400,"height":180},
+		{"id":"038a918acfd27b76","type":"file","file":"Cyber Security/Blue/Digital_Forensics/2. Data Acquisition.md","x":5159,"y":1006,"width":400,"height":180},
+		{"id":"41eabe6b033ecc20","type":"file","file":"Cyber Security/Blue/Digital_Forensics/3. File & Disk Analysis.md","x":4656,"y":1400,"width":400,"height":188},
+		{"id":"583654f906dcbd96","type":"file","file":"Cyber Security/Blue/Digital_Forensics/4. Disks.md","x":4656,"y":1751,"width":400,"height":197},
+		{"id":"0d2bbad78c31919d","type":"file","file":"Cyber Security/Blue/Digital_Forensics/6. Windows Forensics.md","x":5159,"y":1400,"width":400,"height":188},
+		{"id":"b44216e2d4f9d95a","type":"file","file":"Cyber Security/Blue/Digital_Forensics/8. Memory Forensics 1.md","x":5659,"y":1400,"width":400,"height":188},
+		{"id":"b18b10f3fafcad22","type":"file","file":"Cyber Security/Blue/Digital_Forensics/7. Log Analysis.md","x":5159,"y":1751,"width":400,"height":197},
+		{"id":"78fa24c76a865784","type":"file","file":"Cyber Security/Blue/Incident Response/1. Incident Handling Process.md","x":3760,"y":648,"width":400,"height":188},
+		{"id":"61d45fc50fe70ccb","type":"file","file":"Cyber Security/Blue/Incident Surface.md","x":3760,"y":976,"width":400,"height":180},
+		{"id":"c63d328fa469aa5f","type":"text","text":"### Incident Respose","x":3835,"y":471,"width":250,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"5451146cdcd51f34","fromNode":"7e2fde6236f506dd","fromSide":"bottom","toNode":"0c0171ffb24d3910","toSide":"top"},
+		{"id":"d355ccbfeeb32048","fromNode":"7e2fde6236f506dd","fromSide":"bottom","toNode":"229dae1044263f7a","toSide":"top"},
+		{"id":"3b0e24013ce797e2","fromNode":"7e2fde6236f506dd","fromSide":"bottom","toNode":"eb22f55fe505d3ad","toSide":"top"},
+		{"id":"ead2c27a8e2586fe","fromNode":"229dae1044263f7a","fromSide":"bottom","toNode":"c63d328fa469aa5f","toSide":"top"},
+		{"id":"95ac99d5f7c7a366","fromNode":"c63d328fa469aa5f","fromSide":"bottom","toNode":"78fa24c76a865784","toSide":"top"},
+		{"id":"fec1c3e94c6ade59","fromNode":"78fa24c76a865784","fromSide":"bottom","toNode":"61d45fc50fe70ccb","toSide":"top"},
+		{"id":"5dea280bca974dbd","fromNode":"229dae1044263f7a","fromSide":"bottom","toNode":"accd42f0c87dd3eb","toSide":"top"},
+		{"id":"01aa9e7ac44ab23a","fromNode":"accd42f0c87dd3eb","fromSide":"bottom","toNode":"0497a58c9d1664eb","toSide":"top"},
+		{"id":"56f0ed537f279867","fromNode":"0497a58c9d1664eb","fromSide":"bottom","toNode":"038a918acfd27b76","toSide":"top"},
+		{"id":"1ad1c7aac7b4c850","fromNode":"038a918acfd27b76","fromSide":"bottom","toNode":"41eabe6b033ecc20","toSide":"top"},
+		{"id":"cf73f2b5e45536a1","fromNode":"41eabe6b033ecc20","fromSide":"bottom","toNode":"583654f906dcbd96","toSide":"top"},
+		{"id":"a5ea85406d68c620","fromNode":"038a918acfd27b76","fromSide":"bottom","toNode":"0d2bbad78c31919d","toSide":"top"},
+		{"id":"9978bded1f05cd82","fromNode":"0d2bbad78c31919d","fromSide":"bottom","toNode":"b18b10f3fafcad22","toSide":"top"},
+		{"id":"76192a091280d71f","fromNode":"038a918acfd27b76","fromSide":"bottom","toNode":"b44216e2d4f9d95a","toSide":"top"},
+		{"id":"9ad18ae70cdaf9cd","fromNode":"eb22f55fe505d3ad","fromSide":"bottom","toNode":"24ef01f1673bbdba","toSide":"top"},
+		{"id":"9d372965faf833ac","fromNode":"24ef01f1673bbdba","fromSide":"bottom","toNode":"8fb170a4ebc41e1a","toSide":"top"},
+		{"id":"7110ab52af44dfed","fromNode":"8fb170a4ebc41e1a","fromSide":"bottom","toNode":"6b0b12d87fd73d6d","toSide":"top"}
+	]
+}

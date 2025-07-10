@@ -8,31 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "712d7bfb2f035ca2",
-            "type": "leaf",
-            "state": {
-              "type": "pw.planning",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Todo planning"
-            }
-          },
-          {
-            "id": "3d80322725b45dca",
+            "id": "fd3124db1a72b86e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Red/OWASP 10 Web/Cross-site scripting(XSS).md",
+                "file": "Cyber Security/Blue/Incident Response/1. Incident Handling Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cross-site scripting(XSS)"
+              "title": "1. Incident Handling Process"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,55 +179,55 @@
       "proletarian-wizard:Open planning": false
     }
   },
-  "active": "3d80322725b45dca",
+  "active": "fd3124db1a72b86e",
   "lastOpenFiles": [
-    "Cyber Security/Red/OWASP 10 Web/OWASP Web Application Security Testing Checklist.md",
+    "Cyber Security/Cybersecurity Dig.canvas",
     "Cyber Security/Red/OWASP 10 Web/Cross-site scripting(XSS).md",
     "Cyber Security/Red/OWASP 10 Web/Broken Access Control.md",
-    "25_year/6. June 2025.md",
-    "Job Search/VOIS program.md",
-    "Cyber Security/Other/1. Windows/AD-cheat-sheet.pdf",
-    "Cyber Security/Other/1. Windows/Active Directory.md",
+    "Cyber Security/Blue/Incident Response/2. Intrusion Detection.md",
+    "Cyber Security/Blue/Digital_Forensics/7. Log Analysis.md",
+    "Cyber Security/Blue/Digital_Forensics/4. Disks.md",
+    "Cyber Security/Blue/Digital_Forensics/3. File & Disk Analysis.md",
+    "Cyber Security/Blue/Digital_Forensics/2. Data Acquisition.md",
+    "Cyber Security/Blue/Digital_Forensics/1. Introduction.md",
+    "Cyber Security/Blue/Incident Surface.md",
     "Cyber Security/Blue/Incident Response/1. Incident Handling Process.md",
-    "Cyber Security/Blue/Incident Response/SOC_Path_LetsDefend/8. Security Solutions.md",
-    "Cyber Security/Blue/Incident Response/SOC_Path_LetsDefend/7. Malware Analysis Fundamentals.md",
-    "Cyber Security/Blue/Incident Response/SOC_Path_LetsDefend/6.  Investigate a SIEM Alert.md",
-    "Cyber Security/Blue/Incident Response/SOC_Path_LetsDefend/5. Web Attack.md",
-    "Cyber Security/Blue/Incident Response/SOC_Path_LetsDefend/4. Email Analysis.md",
-    "Cyber Security/Blue/Incident Response/SOC_Path_LetsDefend/3. MITRE.md",
-    "Cyber Security/Blue/Incident Response/SOC_Path_LetsDefend/2. Cyber Kill Chain.md",
-    "Cyber Security/Blue/Incident Response/SOC_Path_LetsDefend/1. SOC Fundamentals.md",
-    "Cyber Security/Blue/Incident Response/Cheat Sheets/Windows Cheat Sheet.md",
-    "Cyber Security/Blue/Incident Response/Cheat Sheets/Linux Cheat Sheet.md",
+    "Cyber Security/Blue/Digital_Forensics/8. Memory Forensics 1.md",
+    "Pasted image 20250707172705.png",
+    "Pasted image 20250707140415.png",
+    "Cyber Security/Blue/Wazuh.md",
+    "Cyber Security/Blue/Windows Logging.md",
+    "Cyber Security/Blue/Endpoint Security.md",
+    "Cyber Security/Untitled.md",
+    "Images/Pasted image 20250705141557.png",
+    "25_year/7. July 2025.md",
+    "Freelancing/تحليل الخدمات المعروضه.md",
+    "Freelancing.md",
+    "Freelancing",
+    "25_year/6. June 2025.md",
+    "25_year/The path to 2025 Goals.md",
+    "25_year/2025.canvas",
+    "Graduatin Project/SPI.md",
+    "Graduatin Project/FB.md",
+    "Job Search/Ischool.md",
+    "Graduatin Project/Setup LVLG.md",
+    "Graduatin Project/Encryption.md",
+    "Cyber Security/Other/1. Windows/AD-cheat-sheet.pdf",
     "Cyber Security/Blue/Digital_Forensics/Cheat Sheet/SANS_DFPS_FOR500.pdf",
-    "Cyber Security/Blue/eCDFP/Labs/7. Log Analysis Labs.md",
-    "Cyber Security/Blue/eCDFP/Labs/5. File System Labs.md",
-    "Cyber Security/Blue/eCDFP/Labs/4. Disks Labs.md",
-    "Cyber Security/Blue/eCDFP/Labs/3. File & Disk Analysis Labs.md",
-    "Cyber Security/Projects/SOC Automation Project.md",
     "Cyber Security/Other",
-    "Cyber Security/Projects/Snort&Zeek network Monitoring.md",
     "Cyber Security/Projects/SOC_Automation.png",
     "Cyber Security/Projects/Wazuh_dash.png",
     "Cyber Security/Cheat Sheets/Nmap-Cheat-Sheet.pdf",
     "Cyber Security/Red",
     "Cyber Security/Blue",
-    "25_year/Ask Yourself.md",
-    "Cyber Security/Untitled.md",
     "Cyber Security/Red/OWASP 10 Web",
-    "HR_interview.md",
-    "25_year/2025.canvas",
     "Images/Pasted image 20250426095415.png",
     "Images/Pasted image 20250426095807.png",
     "Images/Pasted image 20250426102049.png",
     "Cyber Security/Other/1. Windows",
     "Images/Pasted image 20250418103155.png",
     "Images/Pasted image 20250418083731.png",
-    "Images/Pasted image 20250418081528.png",
-    "Images/Pasted image 20250418080132.png",
-    "Images/Pasted image 20250415082216.png",
     "Cyber Security/Blue/Incident Response/SOC_Path_LetsDefend",
-    "Cyber Security/Projects",
     "Graduatin Project/GP.canvas"
   ]
 }
