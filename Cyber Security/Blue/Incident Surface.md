@@ -1,4 +1,44 @@
 
+## Windows Incident Surface
+
+### 1. System Tools
+
+> Attacker could used system tools like `cmd` `powershell` to lunch attack.
+
+**Investigation method**
+1. List the Environmental Variables
+```
+set > env_vars.txt
+type env_vars.txt
+```
+
+2. Check PowerShell history for each profile on system.
+
+### 2. System Profile
+
+**Investigation Method**
+1.  Check Network Information
+```
+Get-CimInstance win32_networkadapterconfiguration -Filter IPEnabled=TRUE | ft DNSHostname, IPAddress, MACAddress
+```
+
+2. Check OS details
+```
+Get-CimInstance win32_networkadapterconfiguration -Filter IPEnabled=TRUE | ft DNSHostname, IPAddress, MACAddress
+```
+
+3.  Date and Time Zone Info
+```
+Get-Date ; Get-TimeZone
+```
+
+### 3. Local User
+
+> Attack could create new user on the machine to ensure persistence.
+
+**Investigation Method**: User `Get-LocalUser` command to retrieve all info about user from PowerShell.
+
+
 ## Linux Incident Surface
 
 > [!info]- Linux Attack Surface
