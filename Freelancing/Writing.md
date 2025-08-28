@@ -1,0 +1,2 @@
+- [ ] 10 article on medium
+- [ ] DigitalOcean / LogRocket

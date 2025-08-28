@@ -4,59 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8be5013069956b92",
+        "id": "ede95acd271dbe74",
         "type": "tabs",
         "children": [
           {
-            "id": "18ff02033b3e0016",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Cyber Security/Cybersecurity Dig.canvas",
-                "viewState": {
-                  "x": 3136.581330331632,
-                  "y": 471.3179665913666,
-                  "zoom": -0.5370148348439272
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Cybersecurity Dig"
-            }
-          },
-          {
-            "id": "de59c91afd9798d9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Cyber Security/Cybersecurity Dig.canvas",
-                "viewState": {
-                  "x": 4186.038238277708,
-                  "y": 1040.5021246412884,
-                  "zoom": -0.5944804158425052
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Cybersecurity Dig"
-            }
-          },
-          {
-            "id": "09b0711091737a3a",
+            "id": "de0090120bb55eb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25_year/7. July 2025.md",
+                "file": "25_year/9. Sep 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. July 2025"
+              "title": "9. Sep 2025"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -214,55 +180,55 @@
       "proletarian-wizard:Open planning": false
     }
   },
-  "active": "09b0711091737a3a",
+  "active": "de0090120bb55eb3",
   "lastOpenFiles": [
+    "25_year/2025.canvas",
+    "25_year/9. Sep 2025.md",
+    "Cyber Security/Blue/Windows Logging.md",
+    "Cyber Security/Blue/Tools/XDR.md",
+    "Cyber Security/General/AI in InfoSec.md",
+    "25_year/8. August 2025.md",
+    "Cyber Security/Google Dorks.md",
+    "Cyber Security/CTF.md",
+    "Cyber Security/Blue/Malware Incident.md",
+    "Cyber Security/Blue/Linux File System Analysis.md",
     "Cyber Security/Blue/Incident Surface.md",
+    "Cyber Security/Blue/Endpoint Security.md",
     "Cyber Security/Cybersecurity Dig.canvas",
+    "Freelancing/Writing.md",
+    "Freelancing/العروض.md",
+    "Freelancing/تحليل الخدمات المعروضه.md",
+    "Cyber Security/Blue/Digital_Forensics/Cheat Sheet/SANS_DFPS_FOR500.pdf",
     "25_year/Plans.md",
+    "Cyber Security/General/Network/Network Arch.md",
+    "Cyber Security/Other/Untitled.md",
+    "Cyber Security/General/Network",
+    "Cyber Security/General/Windows/Windows Fundamentals.md",
+    "Cyber Security/General/Windows/Windows Server.md",
+    "Genral/مهارات اتخذ القرارت.md",
     "25_year/7. July 2025.md",
+    "Cyber Security/Blue/Tools/MS Sentinel.md",
+    "Cyber Security/Blue/Tools/Wazuh.md",
+    "Cyber Security/Blue/Tools",
     "25_year/The path to 2025 Goals.md",
     "Cyber Security/Utest/Pentesting.md",
-    "Cyber Security/Utest/Testing Types.md",
     "Pasted image 20250718053824.png",
     "Pasted image 20250718053736.png",
     "Pasted image 20250718053650.png",
     "Pasted image 20250718053610.png",
-    "Cyber Security/Blue/Linux File System Analysis.md",
     "Cyber Security/Utest",
-    "Cyber Security/Blue/Malware Incident.md",
     "Pasted image 20250712235743.png",
-    "Cyber Security/Blue/Windows Logging.md",
-    "Cyber Security/Blue/Digital_Forensics/Cheat Sheet/SANS_DFPS_FOR500.pdf",
     "Images/Pasted image 20250707140415.png",
     "Images/Pasted image 20250707172705.png",
-    "Cyber Security/Blue/Incident Response/1. Incident Handling Process.md",
-    "Cyber Security/Red/OWASP 10 Web/Cross-site scripting(XSS).md",
-    "Cyber Security/Red/OWASP 10 Web/Broken Access Control.md",
-    "Cyber Security/Blue/Incident Response/2. Intrusion Detection.md",
-    "Cyber Security/Blue/Digital_Forensics/7. Log Analysis.md",
-    "Cyber Security/Blue/Digital_Forensics/4. Disks.md",
-    "Cyber Security/Blue/Digital_Forensics/3. File & Disk Analysis.md",
-    "Cyber Security/Blue/Digital_Forensics/2. Data Acquisition.md",
-    "Cyber Security/Blue/Digital_Forensics/1. Introduction.md",
-    "Cyber Security/Blue/Digital_Forensics/8. Memory Forensics 1.md",
-    "Cyber Security/Blue/Wazuh.md",
-    "Cyber Security/Blue/Endpoint Security.md",
-    "Cyber Security/Untitled.md",
     "Images/Pasted image 20250705141557.png",
-    "Freelancing/تحليل الخدمات المعروضه.md",
-    "Freelancing.md",
     "Freelancing",
-    "25_year/6. June 2025.md",
-    "25_year/2025.canvas",
-    "Cyber Security/Other/1. Windows/AD-cheat-sheet.pdf",
-    "Cyber Security/Other",
+    "Cyber Security/General/Windows/AD-cheat-sheet.pdf",
+    "Cyber Security/General",
     "Cyber Security/Projects/SOC_Automation.png",
     "Cyber Security/Projects/Wazuh_dash.png",
     "Cyber Security/Cheat Sheets/Nmap-Cheat-Sheet.pdf",
     "Cyber Security/Red",
     "Cyber Security/Blue",
-    "Cyber Security/Red/OWASP 10 Web",
-    "Cyber Security/Other/1. Windows",
     "Graduatin Project/GP.canvas"
   ]
 }
